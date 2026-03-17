@@ -36,7 +36,18 @@ style: |
 
 * CERN builds the largest machines to study the smallest particles
 
-* Accelerators & Detectors 
+---
+
+# ACCELERATORS
+
+![h:500](./img/dipole.jpg)
+
+---
+
+# DETECTORS
+
+![h:500](./img/atlas-image.jpg)
+
 ---
 
 # ATLAS
@@ -45,11 +56,15 @@ One of these detectors is ATLAS. It is BIG! Although the beam of particles is mu
 
 It uses lots of different sensors to detect which particles are created in the collisions. Some detect particle positions, others detect particle energy. Together this can all be put together to figure out which particles were created. 
 
+![h:500](./img/atlas-schematic.jpg)
+
 ---
 
 # In 2012
 
 And in 2012 the Nobel prize was awarded for the discovery of the Higgs particle. This particle was predicted by the physics equations, but never actually observed before. It’s discovery completed the so called “Standard Model” of particle physics, and is a very important particle because it is part of the physics that gives things mass. Without it we would all be zooming around at the speed of light.
+
+![h:500](./img/higgs.jpg)
 
 ---
 
@@ -67,6 +82,13 @@ He had been taken out this cool circuit boards that had been in the detector whe
 
 So that’s what we’re going to do today. We’re going to give these Nobel prize winning pieces of equipment a new purpose in life. From detecting particles to hopefully creating joy. 
 
+---
+
+# The Circuit
+
+* The board
+* A battery pack + batteries
+* A handful of LEDs
 
 ---
 
@@ -79,5 +101,26 @@ So that’s what we’re going to do today. We’re going to give these Nobel pr
 
 ---
 
+# Hold it like this
 
+![h:500](./img/solder-ok.jpg)
 
+---
+
+# Not like this
+
+![h:500](./img/solder-1.jpg)
+
+---
+
+# Not like this
+
+![h:500](./img/solder-2.jpg)
+
+---
+
+# If you smell roast chicken...
+
+![h:300](./img/chicken.jpg)
+
+## ... you are holding it wrong
