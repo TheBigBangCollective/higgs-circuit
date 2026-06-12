@@ -44,6 +44,12 @@ style: |
 
 ---
 
+# Der Large Hadron Collider (LHC)
+
+![h:500](./img/lhc-aachen.png)
+
+---
+
 # DETEKTOREN
 
 ![h:500](./img/atlas-image.jpg)
@@ -65,12 +71,6 @@ style: |
 # Das Small Wheel
 
 ![h:500](./img/small-wheel.jpg)
-
----
-
-# Der Large Hadron Collider (LHC)
-
-![h:500](./img/lhc-aachen.png)
 
 ---
 
