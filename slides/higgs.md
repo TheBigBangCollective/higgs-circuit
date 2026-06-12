@@ -52,7 +52,10 @@ style: |
 
 # DETEKTOREN
 
-![h:500](./img/atlas-image.jpg)
+<p float="left">
+  <img src="./img/atlas-image.jpg" height="400" />
+  <img src="./img/cms-image.jpg" height="400" />
+</p>
 
 ---
 
@@ -70,13 +73,19 @@ style: |
 
 # Das Small Wheel
 
-![h:500](./img/small-wheel.jpg)
+<p float="left">
+  <img src="./img/small-wheel.jpg" height="400" />
+  <img src="./img/drift-tubes.png" height="300" />
+  <img src="./img/drift-tube_hv-distribution.png" height="150" />
+</p>
 
 ---
 
 # Die Schaltung
 
-- Die Platine
+![h:400](./img/circuit.jpg)
+
+- Die ("Igel") Platine
 - Ein Batteriehalter + Batterien
 - Eine Handvoll LEDs
 
