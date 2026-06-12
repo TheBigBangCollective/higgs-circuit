@@ -44,9 +44,18 @@ style: |
 
 ---
 
+# Der Large Hadron Collider (LHC)
+
+![h:500](./img/lhc-aachen.png)
+
+---
+
 # DETEKTOREN
 
-![h:500](./img/atlas-image.jpg)
+<p float="left">
+  <img src="./img/atlas-image.jpg" height="400" />
+  <img src="./img/cms-image.jpg" height="400" />
+</p>
 
 ---
 
@@ -64,19 +73,19 @@ style: |
 
 # Das Small Wheel
 
-![h:500](./img/small-wheel.jpg)
-
----
-
-# Der Large Hadron Collider (LHC)
-
-![h:500](./img/lhc-aachen.png)
+<p float="left">
+  <img src="./img/small-wheel.jpg" height="400" />
+  <img src="./img/drift-tubes.png" height="300" />
+  <img src="./img/drift-tube_hv-distribution.png" height="150" />
+</p>
 
 ---
 
 # Die Schaltung
 
-- Die Platine
+![h:400](./img/circuit.jpg)
+
+- Die ("Igel") Platine
 - Ein Batteriehalter + Batterien
 - Eine Handvoll LEDs
 
@@ -88,6 +97,7 @@ style: |
 
 Langes Bein - in Richtung Plus
 Kurzes Bein - in Richtung Minus
+Flache Seite - in Richtung Minus
 
 ---
 
@@ -106,13 +116,16 @@ Kurzes Bein - in Richtung Minus
 
 # Nicht so
 
-![h:500](./img/solder-1.jpg)
+![h:500](./img/solder-stockphoto.png)
 
 ---
 
 # Nicht so
 
-![h:500](./img/solder-2.jpg)
+<p float="left">
+  <img src="./img/solder-1.jpg" height="500" />
+  <img src="./img/solder-2.jpg" height="500" />
+</p>
 
 ---
 
@@ -130,3 +143,4 @@ Kurzes Bein - in Richtung Minus
 
 Langes Bein - in Richtung Plus
 Kurzes Bein - in Richtung Minus
+Flache Seite - in Richtung Minus
