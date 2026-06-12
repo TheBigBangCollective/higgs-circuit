@@ -88,6 +88,7 @@ style: |
 
 Langes Bein - in Richtung Plus
 Kurzes Bein - in Richtung Minus
+Flache Seite - in Richtung Minus
 
 ---
 
@@ -130,3 +131,4 @@ Kurzes Bein - in Richtung Minus
 
 Langes Bein - in Richtung Plus
 Kurzes Bein - in Richtung Minus
+Flache Seite - in Richtung Minus
